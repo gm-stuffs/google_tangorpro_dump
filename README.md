@@ -1,0 +1,14 @@
+# tangorpro-user 14 AP2A.240805.005 12025142 release-keys
+- manufacturer: google
+- platform: gs201
+- codename: tangorpro
+- flavor: tangorpro-user
+- release: 14
+- id: AP2A.240805.005
+- incremental: 12025142
+- tags: release-keys
+- fingerprint: google/tangorpro/tangorpro:14/AP2A.240805.005/12025142:user/release-keys
+- is_ab: true
+- brand: google
+- branch: tangorpro-user-14-AP2A.240805.005-12025142-release-keys
+- repo: google_tangorpro_dump
