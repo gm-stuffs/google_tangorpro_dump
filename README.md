@@ -1,0 +1,14 @@
+# tangorpro-user 15 AP3A.241105.007 12470370 release-keys
+- manufacturer: google
+- platform: gs201
+- codename: tangorpro
+- flavor: tangorpro-user
+- release: 15
+- id: AP3A.241105.007
+- incremental: 12470370
+- tags: release-keys
+- fingerprint: google/tangorpro/tangorpro:15/AP3A.241105.007/12470370:user/release-keys
+- is_ab: true
+- brand: google
+- branch: tangorpro-user-15-AP3A.241105.007-12470370-release-keys
+- repo: google_tangorpro_dump
