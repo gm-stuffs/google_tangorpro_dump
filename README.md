@@ -1,0 +1,14 @@
+# tangorpro-user 15 BP1A.250505.005 13277524 release-keys
+- manufacturer: google
+- platform: gs201
+- codename: tangorpro
+- flavor: tangorpro-user
+- release: 15
+- id: BP1A.250505.005
+- incremental: 13277524
+- tags: release-keys
+- fingerprint: google/tangorpro/tangorpro:15/BP1A.250505.005/13277524:user/release-keys
+- is_ab: true
+- brand: google
+- branch: tangorpro-user-15-BP1A.250505.005-13277524-release-keys
+- repo: google_tangorpro_dump
