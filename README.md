@@ -1,0 +1,14 @@
+# tangorpro-user 16 BP3A.250905.014.A1 13873969 release-keys
+- manufacturer: google
+- platform: gs201
+- codename: tangorpro
+- flavor: tangorpro-user
+- release: 16
+- id: BP3A.250905.014.A1
+- incremental: 13873969
+- tags: release-keys
+- fingerprint: google/tangorpro/tangorpro:16/BP3A.250905.014.A1/13873969:user/release-keys
+- is_ab: true
+- brand: google
+- branch: tangorpro-user-16-BP3A.250905.014.A1-13873969-release-keys
+- repo: google_tangorpro_dump
