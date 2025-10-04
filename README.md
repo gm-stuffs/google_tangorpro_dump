@@ -1,0 +1,14 @@
+# tangorpro-user 16 BP2A.250805.005 13691446 release-keys
+- manufacturer: google
+- platform: gs201
+- codename: tangorpro
+- flavor: tangorpro-user
+- release: 16
+- id: BP2A.250805.005
+- incremental: 13691446
+- tags: release-keys
+- fingerprint: google/tangorpro/tangorpro:16/BP2A.250805.005/13691446:user/release-keys
+- is_ab: true
+- brand: google
+- branch: tangorpro-user-16-BP2A.250805.005-13691446-release-keys
+- repo: google_tangorpro_dump
