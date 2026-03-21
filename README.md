@@ -1,0 +1,14 @@
+# generic_system_google-user 16 BP4A.251205.006 14401865 release-keys
+- manufacturer: google
+- platform: gs201
+- codename: tangorpro
+- flavor: generic_system_google-user
+- release: 16
+- id: BP4A.251205.006
+- incremental: 14401865
+- tags: release-keys
+- fingerprint: google/tangorpro/tangorpro:16/BP4A.251205.006/14401865:user/release-keys
+- is_ab: true
+- brand: google
+- branch: generic_system_google-user-16-BP4A.251205.006-14401865-release-keys
+- repo: google_tangorpro_dump
